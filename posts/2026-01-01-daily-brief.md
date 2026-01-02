@@ -22,14 +22,7 @@ Lesson: validate vendor assurances with your own checks.
 Lesson: assume lateral movement after the first foothold.
 Link: https://www.reddit.com/r/netsec/comments/1q15r3i/the_story_of_a_perfect_exploit_chain_six_bugs/
 
-### Event 3: r/netsec monthly discussion & tool thread
-Source: Reddit r/netsec.
-Trigger: <!-- SC_OFF --><div class="md"><p>Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links.</p> <h1>Rules &amp; Guidelines</h1> <ul> <li>Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary.</li> <li>Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely.</li> <li>If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely.</li> <li>Avoid use of memes. If you have something to say, say it with real words.</li> <li>All discussions and questions should directly relate to netsec.</li> <li>No tech support is to be requested or provided on <a href="https://www.reddit.com/r/netsec">r/netsec</a>.</li> </ul> <p>As always, the content &amp; discussion guidelines should also be observed on <a href="https://www.reddit.com/r/netsec">r/netsec</a>.</p> <h1>Feedback</h1> <p>Feedback and suggestions are welcome, but don't post it here. Please send it to the moderator inbox.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/albinowax"> /u/albinowax </a> <br /> <span><a href="https://www.reddit.com/r/netsec/comments/1q15fud/rnetsec_monthly_discussion_tool_thread/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1q15fud/rnetsec_monthly_discussion_tool_thread/">[comments]</a></span>
-Effect: the incident created operational and fraud risk.
-Why it matters: banks must protect customer funds and uptime.
-Lesson: reduce privilege on accounts tied to sensitive flows.
-Lesson: log and alert on abnormal access patterns.
-Link: https://www.reddit.com/r/netsec/comments/1q15fud/rnetsec_monthly_discussion_tool_thread/
+
 
 ## Personal Security Hygiene
 
